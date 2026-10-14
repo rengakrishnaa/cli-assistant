@@ -1,0 +1,6 @@
+{
+  "cloud_ai_enabled": true,
+  "send_personal_data_to_cloud": false,
+  "send_confidential_data_to_cloud": false,
+  "send_secret_data_to_cloud": false
+}
